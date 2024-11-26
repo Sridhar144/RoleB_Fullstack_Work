@@ -1,12 +1,12 @@
 ﻿**RBAC Application**
 
-A sleek **Role-Based Access Control (RBAC)** application built with **Django REST Framework** and **React.js**, offering secure user authentication and role management with a modern UI.![ref1]
+A sleek **Role-Based Access Control (RBAC)** application built with **Django REST Framework** and **React.js**, offering secure user authentication and role management with a modern UI.!
 
 **Features**
 
 - Secure JWT-based login and signup.
 - Role and permission management.
-- Responsive and user-friendly design.![ref1]
+- Responsive and user-friendly design.!
 
 **Setup**
 
@@ -28,7 +28,7 @@ SECRET\_KEY=your\_secret\_key DEBUG=True DATABASE\_NAME=your\_db DATABASE\_USER=
 
 python manage.py migrate python manage.py runserver
 
-3\.![ref1]
+3\.!
 
 **Frontend**
 
@@ -42,12 +42,12 @@ npm install
 
 npm start
 
-2\.![ref1]
+2\.!
 
 **Tech Stack**
 
 - **Frontend**: React.js, CSS
-- **Backend**: Django, DRF, PostgreSQL, Simple JWT![ref1]
+- **Backend**: Django, DRF, PostgreSQL, Simple JWT!
 
 **Contact**
 
@@ -57,4 +57,4 @@ npm start
 
 Enjoy coding! 🚀
 
-[ref1]: Aspose.Words.85f6dcb6-8fc9-4e24-bebc-67a4fbb97f0d.001.png
+: Aspose.Words.85f6dcb6-8fc9-4e24-bebc-67a4fbb97f0d.001.png
